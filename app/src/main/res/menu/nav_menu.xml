@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeScreenfrgment"
+        android:icon="@drawable/icvn_f1"
+        android:title="First" />
+    <item
+        android:id="@+id/facilityFragment"
+        android:icon="@drawable/icvn_f2"
+        android:title="Second" />
+    <item
+        android:id="@+id/serviceFragment"
+        android:icon="@drawable/icvn_f3"
+        android:title="Third" />
+</menu>
